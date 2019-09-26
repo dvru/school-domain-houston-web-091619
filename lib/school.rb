@@ -6,7 +6,7 @@ class School
   
   def initialize(roster)
     @roster = []
-    # @add_student = add_student
+    @add_student = add_student
   end 
   
   def add_student
